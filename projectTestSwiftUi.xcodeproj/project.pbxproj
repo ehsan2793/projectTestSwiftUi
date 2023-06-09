@@ -36,6 +36,7 @@
 		7CA4CAEB2A32B0F4007D1E26 /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA4CAEA2A32B0F4007D1E26 /* ProfileHost.swift */; };
 		7CA4CAEE2A32B22B007D1E26 /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA4CAED2A32B22B007D1E26 /* ProfileSummary.swift */; };
 		7CA4CAF02A32DE4B007D1E26 /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA4CAEF2A32DE4B007D1E26 /* HikeBadge.swift */; };
+		7CA4CAF22A33EE8F007D1E26 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA4CAF12A33EE8F007D1E26 /* ProfileEditor.swift */; };
 		7CC1C6AA2A2EEA7E00AAF33F /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC1C6A92A2EEA7E00AAF33F /* LandmarkDetail.swift */; };
 		7CC1C6AC2A2F255200AAF33F /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CC1C6AB2A2F255200AAF33F /* FavoriteButton.swift */; };
 /* End PBXBuildFile section */
@@ -71,6 +72,7 @@
 		7CA4CAEA2A32B0F4007D1E26 /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		7CA4CAED2A32B22B007D1E26 /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		7CA4CAEF2A32DE4B007D1E26 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		7CA4CAF12A33EE8F007D1E26 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		7CC1C6A92A2EEA7E00AAF33F /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		7CC1C6AB2A2F255200AAF33F /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -188,6 +190,7 @@
 			children = (
 				7CA4CAEA2A32B0F4007D1E26 /* ProfileHost.swift */,
 				7CA4CAED2A32B22B007D1E26 /* ProfileSummary.swift */,
+				7CA4CAF12A33EE8F007D1E26 /* ProfileEditor.swift */,
 			);
 			path = Profiles;
 			sourceTree = "<group>";
@@ -302,6 +305,7 @@
 				7C8074912A3069F00074BDFD /* Hike.swift in Sources */,
 				7C80748A2A304AD70074BDFD /* RotatedBadgeSymbol.swift in Sources */,
 				7C8074882A304A9A0074BDFD /* BadgeSymbol.swift in Sources */,
+				7CA4CAF22A33EE8F007D1E26 /* ProfileEditor.swift in Sources */,
 				7C375D582A2EE0DD001F076A /* LandmarkList.swift in Sources */,
 				7C80749A2A306BFD0074BDFD /* HikeView.swift in Sources */,
 				7CC1C6AA2A2EEA7E00AAF33F /* LandmarkDetail.swift in Sources */,
